@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-curso da Rocketseat :wave: https://app.rocketseat.com.br/
+Curso fullstak da Rocketseat :wave: https://app.rocketseat.com.br/
